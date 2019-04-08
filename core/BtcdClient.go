@@ -15,7 +15,7 @@ func NewBtcdClient() *BtcdClient {
 func init(){
 
 }
-
+//this is added by second
 func (*BtcdClient) run(){
 	flag.Parse()
 
